@@ -54,3 +54,26 @@ https://public.tableau.com/app/profile/rafael.matos1365/viz/Anlisedevendasglobai
 ## 🔗 Link do Projeto
 Repositório GitHub:  
 https://github.com/rafaelmat0s/tripleten-14-projeto_final
+
+---
+
+## ▶️ Como Executar o Projeto
+
+1️⃣ Clonar o repositório:
+```bash
+git clone https://github.com/rafaelmat0s/tripleten-14-projeto_final.git
+
+2️⃣ Entrar na pasta do projeto
+cd tripleten-14-projeto_final
+
+3️⃣ Criar e ativar um ambiente virtual
+python -m venv venv
+venv\Scripts\activate
+
+4️⃣ Instalar as dependências
+pip install pandas numpy scipy matplotlib seaborn
+
+5️⃣ Executar o projeto:
+Abrir o arquivo projeto_final.ipynb no Jupyter Notebook ou VS Code
+Executar as células sequencialmente para reproduzir a análise completa
+
