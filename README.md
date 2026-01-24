@@ -1,31 +1,56 @@
-# Projeto Final – Análise de Vendas Globais de Videogames
+# Projeto Final — Análise de Vendas Globais de Videogames
 
-## 🚀 Contexto do Projeto
+## 📌 Contexto do Projeto
+Este projeto corresponde ao **Projeto Final do Bootcamp de Análise de Dados da TripleTen** e consiste em uma análise completa de dados históricos de vendas globais de videogames.
 
-Este projeto corresponde ao **Projeto Final do Bootcamp de Análise de Dados da TripleTen**, no qual é realizada uma análise completa de dados históricos de vendas globais de videogames.
-
-Durante o desenvolvimento, foi necessário **buscar, organizar e validar os arquivos CSV de forma independente**, além de estruturar corretamente os dados para possibilitar análises consistentes. O projeto simula um cenário real de negócio, no qual o objetivo é identificar padrões de mercado que auxiliem na tomada de decisão estratégica.
-
-A análise considera informações sobre plataformas, gêneros de jogos, regiões de venda e avaliações, com foco em entender quais fatores estão associados ao sucesso comercial de um jogo.
+O objetivo principal é compreender **tendências de mercado**, comportamento de vendas por região, desempenho por gênero e impacto de avaliações críticas e de usuários sobre o sucesso comercial dos jogos.
 
 ---
 
-## 📊 Resumo Geral da Análise
-
-A análise revelou diferenças claras no desempenho de vendas entre plataformas, gêneros e regiões. Algumas plataformas concentraram a maior parte do volume de vendas globais, enquanto outras apresentaram ciclos de vida mais curtos ou queda acentuada ao longo do tempo.
-
-Os gêneros mais populares variaram conforme a região, indicando preferências distintas entre mercados como América do Norte, Europa e Japão. Além disso, foi possível observar que avaliações de críticos e usuários apresentam relação moderada com o desempenho comercial, embora não sejam fatores isolados de sucesso.
-
-Com base nos dados analisados, foi possível construir uma visão sólida do comportamento do mercado de videogames e identificar tendências relevantes para planejamento futuro.
+## 🎯 Objetivo da Análise
+- Identificar padrões de vendas globais ao longo do tempo  
+- Comparar desempenho de gêneros e plataformas  
+- Avaliar diferenças regionais de consumo  
+- Apoiar decisões estratégicas para lançamentos futuros no mercado de games  
 
 ---
 
-## ✅ Recomendações
+## 📊 Análises Realizadas
+- Análise temporal das vendas globais
+- Comparação de vendas por **gênero**, **plataforma** e **região**
+- Avaliação da relação entre **avaliações de críticos, usuários e vendas**
+- Testes de hipóteses para validação estatística de suposições de negócio
 
-Recomenda-se **priorizar investimentos nas plataformas que apresentaram maior volume de vendas globais**, especialmente aquelas com desempenho consistente ao longo dos anos analisados.
+---
 
-Os gêneros com maior participação em vendas — como **Action, Sports e Shooter** — devem ser considerados estratégicos, principalmente em mercados como América do Norte e Europa. Já para o mercado japonês, recomenda-se maior atenção a gêneros com forte apelo local.
+## 📈 Visualizações
+As análises foram complementadas por visualizações interativas desenvolvidas no Tableau Public, facilitando a comunicação dos insights.
 
-Sugere-se utilizar avaliações de críticos e usuários como **indicadores complementares**, mas não como critério único para decisões comerciais, uma vez que o impacto direto sobre vendas não é determinístico.
+Dashboard disponível em:  
+https://public.tableau.com/app/profile/rafael.matos1365/viz/Anlisedevendasglobaisdevideogames/Painel1
 
-Por fim, recomenda-se o uso contínuo desse tipo de análise para **antecipar tendências de mercado**, apoiar campanhas de marketing e orientar decisões sobre lançamentos futuros.
+---
+
+## 🧠 Principais Aprendizados
+- Análise de dados orientada a negócio
+- Aplicação de **testes de hipóteses estatísticas**
+- Interpretação de métricas de desempenho
+- Comunicação de insights por meio de dashboards
+- Tomada de decisão baseada em dados
+
+---
+
+## 🛠️ Ferramentas Utilizadas
+- Python  
+- Pandas  
+- NumPy  
+- SciPy  
+- Jupyter Notebook  
+- Tableau Public  
+- Análise Estatística  
+
+---
+
+## 🔗 Link do Projeto
+Repositório GitHub:  
+https://github.com/rafaelmat0s/tripleten-14-projeto_final
